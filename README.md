@@ -33,14 +33,11 @@ Here are some of the projects I'm working on:
 *   **[color-scheme-generator](https://github.com/SteffenHebestreit/color-scheme-generator):** A responsive web-based tool for generating color schemes. It features dynamic hue selection using a custom JavaScript `HuePicker` component, generates 11 shades for primary, secondary, and tertiary colors using the OKLCH color model, and persists user selections in localStorage. The project demonstrates modern CSS including Grid, Custom Properties, and Container Queries, and includes styled form components.
 *   **[webcrawl-mcp](https://github.com/SteffenHebestreit/webcrawl-mcp):** A 100% compliant Model Context Protocol (MCP) server for web crawling. This reference implementation provides a suite of tools for web crawling, including basic and smart crawling, link extraction, sitemap generation, and page content search. It supports both modern Streamable HTTP and legacy SSE transport methods and is built with Node.js and TypeScript.
 
-You can find more of my work on my [GitHub profile](https://github.com/SteffenHebestreit).
-
 ## 📫 Get in Touch
 
 Let's discuss your project needs!
 
 *   **Email:** [info@steffen-hebestreit.com](mailto:info@steffen-hebestreit.com)
 *   **LinkedIn:** [linkedin.com/in/steffen-hebestreit](https://www.linkedin.com/in/steffen-hebestreit)
-*   **GitHub:** [github.com/SteffenHebestreit](https://github.com/SteffenHebestreit)
 *   **Phone:** [+49 176 / 476 34 880](tel:+4917647634880)
 
