@@ -14,7 +14,7 @@ I have experience working with a variety of technologies, including:
 *   **Messaging & Real-time:** Kafka, MQTT, Websocket
 *   **CMS:** Strapi, Wordpress
 
-## 🚀 What I do
+## ✨ What I do
 
 *   Technical Leadership
 *   Software Architecture
