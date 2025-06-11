@@ -21,7 +21,7 @@ I have experience working with a variety of technologies, including:
 *   Fullstack Development
 *   Consulting
 
-I'm always looking to stay up-to-date on the latest trends and technologies in software engineering. Ready to build custom applications, microservices, AI-powered workflows/agents, or MCP-servers!
+I'm always looking to stay up-to-date on the latest trends and technologies in software engineering. Ready to build custom applications, microservices, AI-powered workflows/agents, or MCP-server.
 
 ## 🚀 Featured Projects
 
