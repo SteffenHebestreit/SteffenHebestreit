@@ -93,12 +93,3 @@ OpenTYME ships with a plugin architecture for extending the platform with custom
 ![Keycloak](https://img.shields.io/badge/Keycloak-071c1c?style=for-the-badge&logo=keycloak&logoColor=00d4b8)
 
 </div>
-
----
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteffenHebestreit&show_icons=true&bg_color=071c1c&title_color=00d4b8&text_color=c8d8d8&icon_color=00d4b8&border_color=1a4a44&rank_icon=github&hide_border=false)](https://github.com/SteffenHebestreit)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SteffenHebestreit&layout=compact&bg_color=071c1c&title_color=00d4b8&text_color=c8d8d8&border_color=1a4a44)](https://github.com/SteffenHebestreit)
-
-</div>
